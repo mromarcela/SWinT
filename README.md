@@ -1,6 +1,7 @@
 # SWinT
 SWinT - Polones Bis project
-<img src="logo/logo1.png" width="50%">
+
+<img src="logo/logo1.png" width="30%">
 
 This research is part of the project No. 2022/45/P/ST8/02123 co-funded by the National Science Centre and the European Union Framework Programme for Research and
 Innovation Horizon 2020 under the Marie Skłodowska-Curie grant agreement no.945339.
